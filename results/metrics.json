@@ -1,0 +1,7 @@
+{
+  "paper": "Benchmarking Type Inference for Large JavaScript Monorepos",
+  "dataset": "held-out-test",
+  "accuracy": 0.812,
+  "f1": 0.789,
+  "seed": 3
+}
